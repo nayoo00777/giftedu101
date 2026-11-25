@@ -1,0 +1,7 @@
+{
+  "name": "Remix Vibrant Glitch Sphere 1",
+  "description": "A 3D animated sphere with colorful, glowing, moving blocks and an RGB split glitch aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
